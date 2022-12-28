@@ -1,0 +1,1 @@
+# liferay-classic-theme
